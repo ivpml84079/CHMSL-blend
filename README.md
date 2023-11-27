@@ -21,3 +21,6 @@ In the main program "main.cpp", parameters can be set in lines 17-30.
 
 ## Other high resolution images of blended results
 https://drive.google.com/drive/folders/1zX1IsOWIvnIBhxuKZpFM5ZOOM7yVLJKo?usp=sharing
+
+## Appendix
+[The HoLoCo method's retrain model](https://drive.google.com/drive/folders/1aILWJX0GkDqo2Qu6ffRkSg-jG2Oyxl_P?usp=sharing)
